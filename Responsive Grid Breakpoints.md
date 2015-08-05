@@ -1,4 +1,4 @@
-# H1 Grid Breakpoints for Responsive Screens
+# Grid Breakpoints for Responsive Screens
 
 .col-xs- >480px (2 columns)
 
