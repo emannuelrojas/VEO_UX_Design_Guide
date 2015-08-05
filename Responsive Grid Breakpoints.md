@@ -1,5 +1,6 @@
 ## Grid Breakpoints for Responsive Screens
 
+```
 .col-xs- >480px (2 columns)
 
 .col-s- >640px (3 columns)
@@ -15,3 +16,4 @@
 .col-xxxl- >1920px (8 columns)
 
 .col-inf- <1921px (10 columns)
+```
